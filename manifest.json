@@ -4,11 +4,11 @@
   "display": "standalone",
   "name": "S-140 Studio",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Midweek-Meeting-Scheduler-Sheet/",
   "short_name": "S-140 Studio",
-  "start_url": "/",
+  "start_url": "/Midweek-Meeting-Scheduler-Sheet/",
   "theme_color": "#35e1dd",
-  "id": "/",
+  "id": "/Midweek-Meeting-Scheduler-Sheet/",
   "description": "Midweek Meeting Schedule App",
   "categories": [
     "productivity",
@@ -17,12 +17,12 @@
   "icons": [
     {
       "src": "icon-192x192.png",
-      "size": "192x192"
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
       "src": "icon-512x512.png",
-      "size": "512x512"
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
